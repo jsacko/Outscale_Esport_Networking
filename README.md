@@ -1,7 +1,7 @@
 # 🎮 Outscale: The Professional Network for Esports
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
 **Outscale** is a professional networking platform tailored specifically for the esports industry, bridging the gap between aspiring talent and professional organizations. It functions as a "LinkedIn for Esports," enabling players to showcase their stats and achievements while empowering teams to discover and recruit top-tier talent efficiently.
 
